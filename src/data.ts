@@ -1,4 +1,4 @@
-export default [
+export const names = [
   {
     id: 1,
     name: 'Bertie Yates',
